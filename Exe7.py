@@ -1,0 +1,1 @@
+print("This is Output of Exe7")
